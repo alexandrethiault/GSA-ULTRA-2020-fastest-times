@@ -19,4 +19,6 @@ Here can be found some of my submissions to the contest, specifically the 9 prob
 
 - D6 Two Quests (time: 6s, best: 6s, with no ex aequos)
 
+- D10 Paper Cut (time: 0s, best: 0s)
+
 I may add some commentary and explanations later if I have time. Maybe.
